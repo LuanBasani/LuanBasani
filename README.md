@@ -3,9 +3,9 @@
 Sou estudante brasileiro de 16 anos, atualmente cursando o ensino médio no SESI e fazendo o curso de Desenvolvimento de Sistemas no SENAI. Estou dando meus primeiros passos na programação, com grande interesse em back-end!
 
 - 📍 **Onde estudo:** SESI (Ensino Médio) e SENAI (Desenvolvimento de Sistemas)
-- 🧑‍💻 **Estudando:** Python (básico), curso Fullstack pela DIO
-- 🚀 **Primeiro projeto:** Sistema simples de agendamento de consultas em Python (sem banco de dados, focado na lógica)
-- 🏀 **Hobby:** Apaixonado por basquete!
+- 🧑‍💻 **Estudando:** HTML, CSS, PYTHON, PROJETOS, BANCO DE DADOS
+- 🚀 **Primeiro projeto:** LIFE HUB - Guia de Descarte Correto e Pontos Sustentáveis
+- 🏀 **Hobby:** Apaixonado por basquete e jogos!
 
 ## Sobre mim
 
@@ -13,14 +13,13 @@ Estou começando na área de programação e quero aprender cada vez mais sobre 
 
 ## 💻 Projeto em destaque
 
-- Sistema simples de agendamento de consultas em Python  
-  Um sistema para praticar lógica de programação, cadastro e agendamento de consultas.
+- LIFE HUB - Sistema de Guia de Descarte Correto e Pontos Sustentáveis feito em HTML e CSS.
 
 ## 📚 O que estou estudando agora
 
 - Python básico e lógica de programação
-- Fundamentos de desenvolvimento fullstack com a DIO
-- Conceitos iniciais de HTML, CSS e JavaScript
+- Iniciando em estudos de banco de dados juntamente com projetos e back end.
+- Conceitos iniciais de HTML, CSS e Python
 
 ## Entre em contato
 
