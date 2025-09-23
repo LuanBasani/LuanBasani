@@ -13,7 +13,8 @@ Estou começando na área de programação e quero aprender cada vez mais sobre 
 
 ## 💻 Projeto em destaque
 
-- LIFE HUB - Sistema de Guia de Descarte Correto e Pontos Sustentáveis feito em HTML e CSS.
+- 🌱 LIFE HUB - Sistema de Guia de Descarte Correto e Pontos Sustentáveis feito em HTML e CSS.
+- ✈️ BON VOYAGE - Sistema de gestão de Passagens Aéreas
 
 ## 📚 O que estou estudando agora
 
@@ -24,6 +25,7 @@ Estou começando na área de programação e quero aprender cada vez mais sobre 
 ## Entre em contato
 
 Se quiser trocar uma ideia, falar sobre tecnologia ou basquete, fique à vontade para me chamar por aqui no GitHub!
+- Instagram - https://www.instagram.com/luanbasani
 
 ---
 
