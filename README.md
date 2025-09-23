@@ -22,10 +22,15 @@ Estou começando na área de programação e quero aprender cada vez mais sobre 
 - Iniciando em estudos de banco de dados juntamente com projetos e back end.
 - Conceitos iniciais de HTML, CSS e Python
 
-## Entre em contato
+## 📬 Entre em contato
 
-Se quiser trocar uma ideia, falar sobre tecnologia ou basquete, fique à vontade para me chamar por aqui no GitHub!
-- Instagram - https://www.instagram.com/luanbasani
+Se quiser trocar uma ideia, falar sobre tecnologia ou basquete, é só me chamar:  
+
+- 📸 [Instagram](https://www.instagram.com/luanbasani)  
+- 💻 [GitHub](https://github.com/luanbasani)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/enzo-basani-25a9bb365/)  
+- 📧 E-mail: **luanbasani@gmail.com**
+
 
 ---
 
