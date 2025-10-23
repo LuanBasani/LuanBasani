@@ -29,7 +29,7 @@ Se quiser trocar uma ideia, falar sobre tecnologia ou basquete, é só me chamar
 - 📸 [Instagram](https://www.instagram.com/luanbasani)  
 - 💻 [GitHub](https://github.com/luanbasani)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/enzo-basani-25a9bb365/)  
-- 📧 E-mail: **luanbasani@gmail.com**
+- 📧 **luanbasani@gmail.com**
 
 
 ---
