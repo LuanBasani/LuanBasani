@@ -1,4 +1,4 @@
-# Olá! Eu sou o Luan Basani 👋
+# Olá! Eu sou o Enzo Basani 👋
 
 Sou estudante brasileiro de 16 anos, atualmente cursando o ensino médio no SESI e fazendo o curso de Desenvolvimento de Sistemas no SENAI. Estou dando meus primeiros passos na programação, com grande interesse em back-end!
 
