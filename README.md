@@ -13,8 +13,8 @@ Estou começando na área de programação e quero aprender cada vez mais sobre 
 
 ## 💻 Projeto em destaque
 
-- 🌱 LIFE HUB - Sistema de Guia de Descarte Correto e Pontos Sustentáveis feito em HTML e CSS.
-- ✈️ BON VOYAGE - Sistema de gestão de Passagens Aéreas
+- 🌱 LIFE HUB - Sistema de Guia de Descarte Correto e Pontos Sustentáveis feito em HTML e CSS.(Andamento)
+- ✈️ BON VOYAGE - Sistema de gestão de Passagens Aéreas(Andamento)
 
 ## 📚 O que estou estudando agora
 
