@@ -84,7 +84,8 @@ Conquistar minha primeira oportunidade na área de desenvolvimento para aplicar 
 ## 📊 Estatísticas
 
 <p align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luanbasani&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanbasani&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
