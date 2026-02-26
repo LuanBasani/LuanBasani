@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=8B5E3C&section=header&textBg=false"/>
+
 <h1 align="center">🚀 Enzo | Desenvolvedor em Formação</h1>
 
 <p align="center">
@@ -41,29 +43,30 @@ Gosto de entender como as aplicações funcionam por trás das interfaces e esto
 
 ### 💻 Linguagens
 
-<p>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+<p align="center">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg">
 </p>
 
 ### ⚙️ Frameworks & Tecnologias
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<p align="center">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg">
 </p>
 
 ### 🧰 Ferramentas
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<p align="center">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
 </p>
 
 ---
@@ -85,27 +88,34 @@ Conquistar minha primeira oportunidade na área de desenvolvimento para aplicar 
 
 ## 📊 Estatísticas
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=luanbasani&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=luanbasani&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=luanbasani&show_icons=true" />
-</picture>
+<div align="center">
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanbasani&theme=date_night"/>
+  <br>
+  <br>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luanbasani&theme=date_night"/>
+</div>
 
 ---
 
 ## 📫 Contato
 
-📧 luanbasani@gmail.com
-🔗 [Meu linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-
+  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:luanbasani@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/luanbasani/?next=%2F)
+  [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=fff)](#)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/luanbasani/)
+  
 ---
+
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=luanbasani&style=flat-square&color=123845" /></p> 
+</div>
 
 <p align="center">
   ⭐ Sempre aprendendo, sempre evoluindo.
 </p>
+
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=8B5E3C&section=footer&textBg=false"/>
