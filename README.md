@@ -1,5 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=8B5E3C&section=header&textBg=false"/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8B5E3C&size=25&center=true&vCenter=true&width=650&lines=Desenvolvedor+em+Forma%C3%A7%C3%A3o;Focado+em+Back-End;Explorando+Full+Stack+e+Mobile;Sempre+aprendendo%2C+sempre+evoluindo"/>
+</p>
+
 <h1 align="center">🚀 Enzo | Desenvolvedor em Formação</h1>
 
 <p align="center">
@@ -15,7 +19,19 @@
 Sou estudante do último ano do curso técnico em **Análise e Desenvolvimento de Sistemas** no SENAI.  
 Durante minha formação construí uma base sólida em programação, banco de dados e estrutura de sistemas.
 
-Gosto de entender como as aplicações funcionam por trás das interfaces e estou evoluindo constantemente como desenvolvedor.
+Tenho interesse em **APIs REST**, **arquitetura de software** e desenvolvimento de aplicações que resolvem problemas de verdade.  
+Busco evoluir constantemente tanto tecnicamente quanto profissionalmente.
+
+---
+
+## 🚀 Projetos em Destaque
+
+🔹 **Sistema de Gestão (Java + Spring Boot)**  
+🔹 **API REST com Node.js**  
+🔹 **Aplicativo Mobile com Flutter**  
+🔹 **Projeto Full Stack (Front-End + Back-End + Banco de Dados)**  
+
+➡️ Veja mais nos meus repositórios abaixo.
 
 ---
 
@@ -47,9 +63,9 @@ Gosto de entender como as aplicações funcionam por trás das interfaces e esto
   <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
   <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
   <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg">
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
 </p>
 
 ### ⚙️ Frameworks & Tecnologias
@@ -90,32 +106,30 @@ Conquistar minha primeira oportunidade na área de desenvolvimento para aplicar 
 
 <div align="center">
   <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanbasani&theme=date_night"/>
-  <br>
-  <br>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luanbasani&theme=date_night"/>
+  <img align="center" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanbasani&theme=date_night"/>
+  <br><br>
+  <img align="center" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luanbasani&theme=date_night"/>
 </div>
 
 ---
 
 ## 📫 Contato
 
-  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:luanbasani@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/luanbasani/?next=%2F)
-  [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=fff)](#)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/luanbasani/)
-  
+[![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:luanbasani@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/luanbasani/?next=%2F)
+[![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=discord&logoColor=fff)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/luanbasani/)
+
 ---
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=luanbasani&style=flat-square&color=123845" /></p> 
+  <p align="center">
+    <img align="center" src="https://komarev.com/ghpvc/?username=luanbasani&style=flat-square&color=123845" />
+  </p> 
 </div>
 
 <p align="center">
   ⭐ Sempre aprendendo, sempre evoluindo.
 </p>
-
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=8B5E3C&section=footer&textBg=false"/>
