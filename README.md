@@ -84,16 +84,17 @@ Conquistar minha primeira oportunidade na área de desenvolvimento para aplicar 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luanbasani&show_icons=true&theme=tokyonight"/>
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanbasani&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📫 Contato
 
-📧 Seu Email  
-🔗 Seu LinkedIn  
+📧 luanbasani@gmail.com
+🔗 [Seu LinkedIn  ](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 ---
 
