@@ -83,16 +83,17 @@ Conquistar minha primeira oportunidade na área de desenvolvimento para aplicar 
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=luanbasani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-    height="170"
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=luanbasani&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanbasani&layout=compact&theme=tokyonight" 
-    height="170"
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=luanbasani&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=luanbasani&show_icons=true" />
+</picture>
 
 ---
 
