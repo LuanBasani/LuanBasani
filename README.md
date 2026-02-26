@@ -92,7 +92,6 @@ Busco evoluir constantemente tanto tecnicamente quanto profissionalmente.
 <p align="center">
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg">
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
 </p>
 
