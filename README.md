@@ -84,9 +84,7 @@ Conquistar minha primeira oportunidade na área de desenvolvimento para aplicar 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LuanBasani&show_icons=true&theme=tokyonight"/>
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanBasani&layout=compact&theme=tokyonight"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanbasani)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
