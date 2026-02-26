@@ -1,37 +1,102 @@
-# Olá! Eu sou o Enzo Basani 👋
+<h1 align="center">🚀 Enzo | Desenvolvedor em Formação</h1>
 
-Sou estudante brasileiro de 16 anos, atualmente cursando o ensino médio no SESI e fazendo o curso de Desenvolvimento de Sistemas no SENAI. Estou dando meus primeiros passos na programação, com grande interesse em back-end!
-
-- 📍 **Onde estudo:** SESI (Ensino Médio) e SENAI (Desenvolvimento de Sistemas)
-- 🧑‍💻 **Estudando:** HTML, CSS, PYTHON, PROJETOS, BANCO DE DADOS
-- 🚀 **Primeiro projeto:** LIFE HUB - Guia de Descarte Correto e Pontos Sustentáveis
-- 🏀 **Hobby:** Apaixonado por basquete e jogos!
-
-## Sobre mim
-
-Estou começando na área de programação e quero aprender cada vez mais sobre desenvolvimento back-end. Gosto de desafios, adoro esportes (especialmente basquete!) e estou sempre buscando novas formas de evoluir.
-
-## 💻 Projeto em destaque
-
-- 🌱 LIFE HUB - Sistema de Guia de Descarte Correto e Pontos Sustentáveis feito em HTML e CSS.(Andamento)
-- ✈️ BON VOYAGE - Sistema de gestão de Passagens Aéreas(Andamento)
-
-## 📚 O que estou estudando agora
-
-- Python básico e lógica de programação
-- Iniciando em estudos de banco de dados juntamente com projetos e back end.
-- Conceitos iniciais de HTML, CSS e Python
-
-## 📬 Entre em contato
-
-Se quiser trocar uma ideia, falar sobre tecnologia ou basquete, é só me chamar:  
-
-- 📸 [Instagram](https://www.instagram.com/luanbasani)  
-- 💻 [GitHub](https://github.com/luanbasani)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/enzo-basani-25a9bb365/)  
-- 📧 **luanbasani@gmail.com**
-
+<p align="center">
+  🎓 Técnico em Análise e Desenvolvimento de Sistemas - SENAI <br>
+  💻 Focado em Back-End | Explorando Full Stack <br>
+  📍 Último ano de formação (2/2)
+</p>
 
 ---
 
-> “O importante não é ser melhor que alguém, mas sim ser melhor do que você já foi.”  
+## 👨‍💻 Sobre mim
+
+Sou estudante do último ano do curso técnico em **Análise e Desenvolvimento de Sistemas** no SENAI.  
+Durante minha formação construí uma base sólida em programação, banco de dados e estrutura de sistemas.
+
+Gosto de entender como as aplicações funcionam por trás das interfaces e estou evoluindo constantemente como desenvolvedor.
+
+---
+
+## 📚 Formação Técnica
+
+### ✅ 1º Ano
+- Lógica de Programação  
+- Redes de Computadores  
+- Sistemas Operacionais  
+- Linguagem de Marcação (HTML)  
+- Back-End (Fundamentos)  
+- Banco de Dados  
+- Levantamento de Requisitos  
+- Projetos (Fundamentos)
+
+### 🔥 2º Ano (Atual)
+- Back-End (Avançado)  
+- Desenvolvimento Mobile  
+- Projetos (Completo: planejamento até entrega)  
+- Front-End  
+
+---
+
+## 🛠️ Tecnologias
+
+### 💻 Linguagens
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### ⚙️ Frameworks & Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+### 🧰 Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Conquistar minha primeira oportunidade na área de desenvolvimento para aplicar meus conhecimentos e continuar evoluindo como profissional.
+
+---
+
+## 📈 Atualmente focado em
+
+- 🔥 Construção de APIs com Node.js e Spring Boot  
+- 📱 Desenvolvimento Mobile com Flutter  
+- ⚡ Evolução contínua em JavaScript  
+- 🧠 Aprimoramento de lógica e arquitetura
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contato
+
+📧 Seu Email  
+🔗 Seu LinkedIn  
+
+---
+
+<p align="center">
+  ⭐ Sempre aprendendo, sempre evoluindo.
+</p>
