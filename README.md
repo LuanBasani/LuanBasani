@@ -14,6 +14,17 @@
 
 ---
 
+## 📊 Estatísticas
+
+<div align="center">
+  <br>
+  <img align="center" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanbasani&theme=date_night"/>
+  <br><br>
+  <img align="center" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luanbasani&theme=date_night"/>
+</div>
+
+---
+
 ## 👨‍💻 Sobre mim
 
 Sou estudante do último ano do curso técnico em **Análise e Desenvolvimento de Sistemas** no SENAI.  
@@ -99,17 +110,6 @@ Conquistar minha primeira oportunidade na área de desenvolvimento para aplicar 
 - 📱 Desenvolvimento Mobile com Flutter  
 - ⚡ Evolução contínua em JavaScript  
 - 🧠 Aprimoramento de lógica e arquitetura
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  <br>
-  <img align="center" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanbasani&theme=date_night"/>
-  <br><br>
-  <img align="center" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luanbasani&theme=date_night"/>
-</div>
 
 ---
 
