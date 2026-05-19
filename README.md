@@ -7,10 +7,11 @@
 <h1 align="center">🚀 Enzo | Desenvolvedor em Formação</h1>
 
 <p align="center">
-  🎓 Técnico em Análise e Desenvolvimento de Sistemas - SENAI <br>
-  💻 Focado em Back-End | Explorando Full Stack <br>
-  📍 Último ano de formação (2/2)
+  🎓 Técnico em Desenvolvimento de Sistemas — SENAI Americana <br>
+  💻 Focado em Back-End | Explorando Full Stack e Mobile <br>
+  📍 Americana, SP — Buscando primeiro estágio
 </p>
+
 
 ---
 
@@ -27,21 +28,22 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante do último ano do curso técnico em **Análise e Desenvolvimento de Sistemas** no SENAI.  
-Durante minha formação construí uma base sólida em programação, banco de dados e estrutura de sistemas.
-
-Tenho interesse em **APIs REST**, **arquitetura de software** e desenvolvimento de aplicações que resolvem problemas de verdade.  
-Busco evoluir constantemente tanto tecnicamente quanto profissionalmente.
+Sou estudante do técnico em **Desenvolvimento de Sistemas** no SENAI Americana.  
+Durante minha formação construí projetos reais usando Java, Python, JavaScript e Flutter para aplicar na prática o que aprendo.
+ 
+Tenho interesse em **back-end**, **APIs REST** e **arquitetura de software**.  
+Busco minha primeira oportunidade como estagiário para crescer junto a um time experiente.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-🔹 **Sistema de Gestão (Java + Spring Boot)**  
-🔹 **API REST com Node.js**  
-🔹 **Aplicativo Mobile com Flutter**  
-🔹 **Projeto Full Stack (Front-End + Back-End + Banco de Dados)**  
-
+🔹 **[gerenciamento-estoque](https://github.com/LuanBasani/gerenciamento-estoque)** — Sistema de controle de materiais e ativos patrimoniais para o SENAI-SP (Java + Spring Boot + PostgreSQL)  
+🔹 **[EcoTrack](https://github.com/LuanBasani/EcoTrack)** — App mobile de hábitos sustentáveis com dashboard e pontuação ecológica (Flutter + Dart + Provider)  
+🔹 **[Evento-Check](https://github.com/LuanBasani/Evento-Check)** — Sistema de credenciamento de eventos com validação em tempo real (HTML + CSS + JavaScript)  
+🔹 **[Mini-Steam-CRUD](https://github.com/LuanBasani/Mini-Steam-CRUD)** — CRUD via terminal para biblioteca de jogos e wishlist estilo Steam (Python)  
+🔹 **[Sistema-de-Controle-de-Quitanda](https://github.com/LuanBasani/Sistema-de-Controle-de-Quitanda)** — Aplicação web MVC para controle de estoque e vendas, documentada com ISO/IEC/IEEE 29148:2018 (JavaScript)
+ 
 ➡️ Veja mais nos meus repositórios abaixo.
 
 ---
@@ -105,10 +107,10 @@ Conquistar minha primeira oportunidade na área de desenvolvimento para aplicar 
 
 ## 📈 Atualmente focado em
 
-- 🔥 Construção de APIs com Node.js e Spring Boot  
-- 📱 Desenvolvimento Mobile com Flutter  
-- ⚡ Evolução contínua em JavaScript  
-- 🧠 Aprimoramento de lógica e arquitetura
+- 🔥 Back-End com Java + Spring Boot
+- 📱 Desenvolvimento Mobile com Flutter
+- ⚡ JavaScript e PHP
+- 🧠 Arquitetura de software e boas práticas
 
 ---
 
