@@ -68,34 +68,20 @@ Busco minha primeira oportunidade como estagiário para crescer junto a um time 
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Linguagens e Ferramentas
 
-### 💻 Linguagens
-
-<p align="center">
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-</p>
-
-### ⚙️ Frameworks & Tecnologias
-
-<p align="center">
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg">
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg">
-</p>
-
-### 🧰 Ferramentas
-
-<p align="center">
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Linguagens</b><br><img src="https://skillicons.dev/icons?i=python,java,js,html,css" /></td>
+      <td align="center"><b>Backend</b><br><img src="https://skillicons.dev/icons?i=nodejs,spring,postgresql" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Mobile & Frameworks</b><br><img src="https://skillicons.dev/icons?i=flutter" /></td>
+      <td align="center"><b>Ferramentas</b><br><img src="https://skillicons.dev/icons?i=git,github,vscode" /></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
